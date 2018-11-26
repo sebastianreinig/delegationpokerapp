@@ -20,7 +20,7 @@ Read here: https://management30.com/product/delegation-poker/
 ## Credits
 - Mgt3
 - #Einfachbahn
-- sebastianreinig.de 
+- sebastianreinig.de
 
 
 ## License
