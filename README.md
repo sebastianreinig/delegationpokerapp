@@ -1,4 +1,4 @@
-# Delegation Poker Application
+# Delegation Poker App
 Dies ist eine Anwendung für das Delegetion Poker, einer Management 3.0 Methode.
 
 Work in Progress!
